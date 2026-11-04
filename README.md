@@ -3,7 +3,3 @@
   <br><br>
   <img src="beluga/legend.svg" width="512" alt="What the whale's colors mean: each language I use and its percentage">
 </p>
-
-<p align="center">
-  <sub>Inspired by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a> by <a href="https://github.com/yalongwastaken">Anthony Yalong</a>.</sub>
-</p>
