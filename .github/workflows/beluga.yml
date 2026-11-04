@@ -53,6 +53,7 @@ jobs:
         with:
           token: ${{ inputs.test && github.token || secrets.BELUGA_TOKEN }}
           require-private: ${{ !inputs.test }}
+          pattern: tide
       - name: Commit the whale if it changed
         if: steps.plan.outputs.commit == 'true'
         run: |
